@@ -1,0 +1,12 @@
+fun main(args:Array<String>)
+{
+	var a:Int
+	var b:Int
+	a=23
+	b=53
+	var c:Int
+	
+	c=a+b
+	print("Hello World")
+	print("The sum of $a and $b is $c")
+}
